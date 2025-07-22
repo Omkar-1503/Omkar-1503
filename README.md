@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Omkar Khadakkar</h1>
 <h3 align="center">Aspiring SDE | Full-Stack Dev | Tech & Finance Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer+Intern+@+Fendahl;CSE+Grad+%7C+Full-Stack+Developer;Exploring+Tech,+Finance,+and+Fitness!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer+@+Fendahl;CSE+Grad+%7C+Full-Stack+Developer;Exploring+Tech,+Finance,+and+Fitness!" alt="Typing SVG" />
 </p>
 
 ---
